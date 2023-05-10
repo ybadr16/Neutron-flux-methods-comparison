@@ -5,3 +5,4 @@ the effect of the diffusion equation.
 The analytical solution is found to be:
 $$\phi_{\text{analytical}} = \frac{{\text{So}}}{{2 \pi D}} \left( k_0\left(\frac{r}{L}\right) - \frac{{i_0\left(\frac{r}{L}\right) k_0\left(\frac{a}{L}\right)}}{{i_0\left(\frac{a}{L}\right)}} \right)$$
 
+Note: Currently changing the geometry results in drastic changes in flux, there's likely an error in the method, but i am not sure what as is.
